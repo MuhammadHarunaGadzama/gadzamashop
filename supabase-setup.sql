@@ -1,0 +1,8 @@
+-- GADZAMA STORE existing Supabase project is already provisioned.
+-- Do NOT run the older starter schema from this ZIP against the existing database.
+-- The Netlify function code has been adapted to the existing schema:
+-- products.price_kobo / products.is_active / products.stock
+-- orders.subtotal_kobo / orders.delivery_fee_kobo / orders.total_kobo
+-- order_items.product_name / unit_price_kobo / line_total_kobo
+-- profiles.role
+-- Existing Row Level Security policies should remain enabled.

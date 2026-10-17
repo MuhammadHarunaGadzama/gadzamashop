@@ -1,0 +1,9 @@
+{
+  "name": "gadzama-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GADZAMA STORE ecommerce website for Netlify",
+  "dependencies": {
+    "@supabase/supabase-js": "2.57.4"
+  }
+}
